@@ -1,4 +1,4 @@
-# logic.py
+
 
 def verifica_dependenta_functionala(date_tabel, nume_coloane, indici_X, indici_Y):
     """

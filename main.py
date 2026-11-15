@@ -1,4 +1,4 @@
-# main.py
+
 import sys
 from PyQt6.QtWidgets import QApplication, QFileDialog
 from database import DatabaseManager
