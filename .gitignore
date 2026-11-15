@@ -1,0 +1,20 @@
+# Python cache (fișierele temporare generate de Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Baze de date SQLite locale (cum a fost studenti.db)
+*.db
+*.sqlite
+*.sqlite3
+
+# Medii virtuale (dacă folosești venv)
+venv/
+.venv/
+ENV/
+
+# Setări specifice de editor (VS Code, PyCharm etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
